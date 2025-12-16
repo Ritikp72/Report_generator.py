@@ -1,0 +1,7 @@
+INFO: Application started
+WARNING: Disk space is low
+INFO: User logged in
+ERROR: Failed to connect to database
+WARNING: High memory usage
+ERROR: Timeout occurred
+INFO: Shutdown complete
